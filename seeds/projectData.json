@@ -1,0 +1,14 @@
+[
+  {
+    "name": "blog post 1",
+    "description": "new tech announced by Apple"
+  },
+  {
+    "name": "blog post 2",
+    "description": "What to expect at upcoming Dev Conference"
+  },
+  {
+    "name": "blog post 3",
+    "description": "Top NPM Packages for data management in 2023"
+    }
+]

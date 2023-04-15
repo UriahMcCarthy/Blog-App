@@ -1,1 +1,2 @@
 # Blog-App
+I needed a blog application that allows users to login, post blogs, edit posts, and comment on others posts. This site is called Blog-space, and it does exactly that. When you open it up, you're faced first with the Home page. 
