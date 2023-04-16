@@ -1,2 +1,2 @@
-# Blog-App
-I needed a blog application that allows users to login, post blogs, edit posts, and comment on others posts. This site is called Blog-space, and it does exactly that. When you open it up, you're faced first with the Home page. 
+# Tech-Blog-App
+I needed a blog application that allows users to login, post blogs, edit posts, and comment on others posts about tech. This site is called Blog-space, and it does exactly that. When you open it up, you're faced first with the Home page. once you click the login or signup on the right and follow the prompt, you have the ability to post and view posts along with the dates and users that posted them. That's the sum of this Blog app.
